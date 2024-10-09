@@ -1,0 +1,22 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 24px;
+    box-shadow: 10px 10px 10px black;
+    padding: 10px;
+    gap: 20px;
+}
+
+.title{
+    display: flex;
+    flex-direction: row;
+    gap:20px;
+    align-items: center;
+
+}
+
